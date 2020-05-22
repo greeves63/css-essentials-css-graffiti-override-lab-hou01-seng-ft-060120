@@ -33,6 +33,6 @@ body #wall #tag-2 { /* 201 */
 }
 /* Tag 7 -> 224 */
 
-body div#wall div.parent div > div#tag-7.slick { /*225*/
+#wall div.parent div > #tag-7.slick { /*225*/
   display: none;
 }
