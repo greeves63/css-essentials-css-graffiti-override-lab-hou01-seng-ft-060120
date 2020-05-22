@@ -20,7 +20,11 @@ body #wall #tag-2 { /* 201 */
   display: none;
 }
 
+/* Tag 5 -> 221 */
 
+#wall div.parent #tag-5.slick { /*223*/
+  display: none;
+}
 
 /* Tag 6 -> 224 */
 
